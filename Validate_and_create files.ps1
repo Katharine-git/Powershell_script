@@ -1,5 +1,5 @@
 #Task 3
-#Function to validate and create files whose names are stored in a text file
+#Function to validate and create files whose names are stored in a text file.
 
 Function validate($name)
 {
