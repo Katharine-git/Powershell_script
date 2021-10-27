@@ -1,11 +1,11 @@
 <h1> <b>TAKS</b></h1>
 <h3>Task 1</h3>
-# Check the url(https://jsonplaceholder.typicode.com/todos/1) and you need to download the data and present/print those details
-# 1. validate If the website exists download the values from the url
-# 2. Print the user Id and status
+Check the url(https://jsonplaceholder.typicode.com/todos/1) and you need to download the data and present/print those details
+1. validate If the website exists download the values from the url
+2. Print the user Id and status
 
 <h3>Task 2</h3>
-# Get the computer name, the logged in user along with the free space in the computer
+Get the computer name, the logged in user along with the free space in the computer
 
 <h3>Task 3</h3>
 Create a script that reads in a list of file names from a text file, creates the specified files .txt files
