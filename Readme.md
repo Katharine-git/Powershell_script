@@ -17,4 +17,4 @@ Create functions with required parameters and parameter validations for the abov
 Get and list all files and folders from the directory where your code resides (Task 4). Print all files with full path in console. Read all ps1 files and get the content and append everything to a new file with *.ps1 extension.
 
 
-<h2>Happy Scripting !!</h2>
+<h1>Happy Scripting !!</h1>
