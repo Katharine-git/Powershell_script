@@ -1,9 +1,9 @@
-# Task 1
+# Task 1.
 # Check the url(https://jsonplaceholder.typicode.com/todos/1) and you need to download the data and present/print those details
 # 1. validate If the website exists download the values from the url
 # 2. Print the user Id and status
 
-# Task 2
+# Task 2.
 # Get the computer name, the logged in user along with the free space in the computer
 
 Function validate($url)
